@@ -1,0 +1,17 @@
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\SanPhamClassLiBrary.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\SanPhamClassLiBrary.pdb
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\obj\Debug\SanPhamClassLiBrary.csproj.AssemblyReference.cache
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\obj\Debug\SanPhamClassLiBrary.csproj.CoreCompileInputs.cache
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\obj\Debug\SanPhamClassLiBrary.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\obj\Debug\SanPhamClassLiBrary.pdb
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Buffers.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Memory.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Buffers.xml
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Memory.xml
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leduc\source\repos\SanPhamClassLiBrary\SanPhamClassLiBrary\obj\Debug\SanPhamC.EE55D85C.Up2Date
